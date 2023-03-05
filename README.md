@@ -4,11 +4,11 @@
 
 - 📚  Llevo más de **1 año** aprendiendo Front End, soy una persona responsable, autodidacta y apasionado por la tecnología.
 
-- 🟢  Soy de Costa Rica
+- ⚪  Soy de Costa Rica
 
-- 🔴  Puedes comunicarte conmigo a través mi correo electrónico **---**
+- 🔵  Puedes comunicarte conmigo a través mi correo electrónico **---**
 
-- 🟡  En mi <a href="---">Portafolio</a> puedes ver algunos de los proyectos que he realizado.
+- 🔴  En mi <a href="---">Portafolio</a> puedes ver algunos de los proyectos que he realizado.
 
 <h3 align="left">Conecta Conmigo:</h3>
 <p align="left">
