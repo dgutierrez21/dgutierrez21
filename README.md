@@ -1,8 +1,6 @@
-<h1>Hola👋, mi nombre es Dixon Gutierrez</h1>
-===================================
+<h1 align="center">Hola👋, mi nombre es Dixon Gutierrez</h1>
 
-<h3>Front End Developer</h3>
-------------------
+<h3 align="center">Front End Developer</h3>
 
 - 📚  Llevo más de **1 año** aprendiendo Front End, soy una persona responsable, autodidacta y apasionado por la tecnología.
 
@@ -29,6 +27,7 @@
 <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/favicons/favicon-dark.png" width="36" height="36" alt="GitHub"/></a>
  </p>
- <p><img src="https://streak-stats.demolab.com?user=dgutierrez21&theme=algolia&border_radius=30&locale=es&currStreakNum=EB0000&sideNums=EB0000&sideLabels=00FF61&fire=00EB42&ring=EB0000&border=EB0000" alt="Dixon Gutierrez" /></p>
+ 
+ <p align="left"><img src="https://streak-stats.demolab.com?user=dgutierrez21&theme=algolia&border_radius=30&locale=es&currStreakNum=EB0000&sideNums=EB0000&sideLabels=00FF61&fire=00EB42&ring=EB0000&border=EB0000" alt="Dixon Gutierrez" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dgutierrez21&show_icons=true&locale=en&layout=compact" alt="Dixon Gutierrez" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dgutierrez21&show_icons=true&locale=en&layout=compact" alt="Dixon Gutierrez" /></p>
