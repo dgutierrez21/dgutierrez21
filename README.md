@@ -2,7 +2,7 @@
 
 <h3 align="center">Front End Developer</h3>
 
-- 📚  Llevo más de **1 año** aprendiendo Front End, soy una persona responsable, autodidacta y apasionado por la tecnología.
+- 📚  Actualmente aprendiendo **Tailwind CSS**
 
 - 🔵  Soy de Costa Rica
 
