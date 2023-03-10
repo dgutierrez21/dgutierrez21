@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋, mi nombre es Dixon Gutierrez</h1>
+<h1 align="center">Hola👋, mi nombre es Dixon Gutiérrez</h1>
 
 <h3 align="center">Front End Developer</h3>
 
