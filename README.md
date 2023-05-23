@@ -1,6 +1,4 @@
-<h1 align="center">Dixon Gutiérrez</h1>
-
-<h2 align="center">Frontend Developer</h3>
+<h1 align="center">Dixon Gutiérrez - Frontend Developer</h1>
 
 <h3 align="center">Skills</h3>
 
