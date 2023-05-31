@@ -17,4 +17,4 @@
  
  <p><img align="left" src="https://streak-stats.demolab.com?user=dgutierrez21&theme=algolia&border_radius=10&locale=en&currStreakNum=EB0000&sideNums=EB0000&sideLabels=00FF61&fire=00EB42&ring=EB0000&border=EB0000&background=000000" alt="Dixon Gutierrez" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgutierrez21&show_icons=true&locale=en&layout=compact" alt="Dixon Gutierrez" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgutierrez21&layout=compact" alt="Dixon Gutierrez" /></p>
